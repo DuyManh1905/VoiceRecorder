@@ -90,7 +90,7 @@ public class MainActivity extends AppCompatActivity {
                 stopRecording();
                 btnStart.setEnabled(true);
                 btnStop.setEnabled(false);
-                btnPlay.setEnabled(true);
+                btnPlay.setEnabled(false);
             }
         });
 
